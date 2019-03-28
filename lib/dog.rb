@@ -10,7 +10,4 @@ class Dog
 end
 
 
-fido = Dog.new("lassie","Mutt")
-fido.breed
-
 
